@@ -1,4 +1,4 @@
-# Semana Spring React (em progresso...)
+# Semana Spring React
 Projeto realizado no evento Semana Spring React, do canal do Youtube DevSuperior.
  
  - Evento realizado em  **Novembro/2022**;
@@ -14,9 +14,12 @@ Projeto realizado no evento Semana Spring React, do canal do Youtube DevSuperior
 
 ## Instalação
 - Use o Maven para instalar todas as dependências
+- Para envio de SMS via Twilio
+  - Configure as varáveis de ambiente presentes no arquivo 
+    - https://github.com/ppcandrade/devsuperior-semana-spring-react/blob/main/backend/src/main/resources/application.properties
   
 ## Frontend
-....
+Demo: https://dsmeta-ppcandrade.netlify.app/
 
 ## Backend
-.....
+Demo: https://dsmeta-ppcandrade.herokuapp.com/
